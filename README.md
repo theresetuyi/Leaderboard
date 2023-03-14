@@ -64,7 +64,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 **Open the live-demo of the project**
-[Project Link][]
+[Project Link][https://theresetuyi.github.io/Leaderboard/]
 
 <!-- GETTING STARTED -->
 
