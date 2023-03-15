@@ -4,10 +4,10 @@
   "description": "<a name=\"readme-top\"></a>",
   "main": "babel,config.js",
   "scripts": {
-    "build": "webpack --mode production",
     "test": "jest",
-    "start": "webpack",
-    "dev": "webpack serve"
+    "dev": "webpack --mode development",
+   "build": "webpack --mode production",
+   "start": "webpack --config webpack.config.js --watch"
   },
   "keywords": [],
   "author": "",
