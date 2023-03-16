@@ -122,4 +122,4 @@ This project has been created in reference to the template created by
 
 ## 📝 License
 
-This project is [License](MIT.md) licensed.
+This project is [MIT.md](./MIT.md) licensed.
